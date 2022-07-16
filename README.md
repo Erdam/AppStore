@@ -37,40 +37,52 @@ El programa debe permitir:
 **Nombre** 
 R1 –  Visualizar la información detallada de cada juego.
 
-**Resumen**   Permite visualizar la información (categoría, tamaño, precio, 
+**Resumen**  Permite visualizar la información (categoría, tamaño, precio, 
 unidades disponibles, unidades vendidas e imágenes) de todos los juegos de la tienda.
 
-**Entrada**   Ninguna
+**Entrada**  Ninguna
 
 **Resultado**   Se muestra la información detallada de cada uno de los juegos de la tienda.
 
 ------------------------------------------------------------------------------------------------------
-**Nombre** R2 – Comprar licencias de un juego
-**Resumen** Permite realizar la compra de una cantidad de licencias de un juego específico.
+**Nombre**
+R2 – Comprar licencias de un juego
+
+**Resumen**  Permite realizar la compra de una cantidad de licencias de un juego específico.
+
 **Entrada**
 Nombre del juego.
 Cantidad de licencias a comprar.
-**Resultado** La cantidad de licencia del juego aumenta en el número específico,
+
+**Resultado**  La cantidad de licencia del juego aumenta en el número específico,
 sí el juego no estaba disponible, vuelve a estarlo.
 
 ------------------------------------------------------------------------------------------------------
-**Nombre** R3 – Vender licencias de un juego.
+**Nombre**
+R3 – Vender licencias de un juego.
+
 **Resumen** Permite realizar la venta de una cantidad de licencias de un juego específico.
+
 **Entrada**
 Nombre del juego.
 Cantidad de licencias a vender.
-**Resultado** En caso de tener una cantidad de licencias disponibles mayor o igual a las que se quieren vender,
+
+**Resultado**  En caso de tener una cantidad de licencias disponibles mayor o igual a las que se quieren vender,
 se disminuye la cantidad de unidades del juego. Si la cantidad de licencias disponibles después de la venta queda en 0, 
 el juego deja de estar disponible en la interfaz.
 En caso de no tener una cantidad suficiente de licencias disponibles para la venta, no se realizará la venta.
 
 
 ------------------------------------------------------------------------------------------------------
-**Nombre** R4 – Consultar el juego más vendido.
+**Nombre**
+R4 – Consultar el juego más vendido.
+
 **Resumen**
 Consultar cuál es el juego más vendido.
+
 **Entrada**
 Ninguna.
+
 **Resultado** Nombre del juego con más licencias vendidas.
 En el caso de que no se haya vendido ningún juego no se muestra nada.
 
@@ -78,15 +90,18 @@ En el caso de que no se haya vendido ningún juego no se muestra nada.
 ------------------------------------------------------------------------------------------------------
 **Nombre**
 R5 – Consultar los descuentos aplicados por un volumen de compra.
+
 **Resumen**
 Calcula los descuentos que aplican para ventas de licencias dadas las cantidades de productos a comprar.
 empresa. 
+
 **Entrada**
 Cantidad de licencias solicitadas del juego1.
 Cantidad de licencias solicitadas del juego2.
 Cantidad de licencias solicitadas del juego3.
 Cantidad de licencias solicitadas del juego4.
-**Resultado** Balance del pedido indicando precio total de la compra, valor del descuento y valor total de la compra con el descuento.
+
+**Resultado**  Balance del pedido indicando precio total de la compra, valor del descuento y valor total de la compra con el descuento.
 
 
 ------------------------------------------------------------------------------------------------------
