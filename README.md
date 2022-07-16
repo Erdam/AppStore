@@ -38,12 +38,12 @@ El programa debe permitir:
 R1 – Visualizar la información detallada de cada juego.
 
 **Resumen**
+
 Permite visualizar la información (categoría, tamaño, precio, 
 unidades disponibles, unidades vendidas e imágenes) de todos los juegos de la tienda.
-
 **Entrada**
-Ninguna
 
+Ninguna
 **Resultado** 
 Se muestra la información detallada de cada uno de los juegos de la tienda.
 
