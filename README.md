@@ -84,6 +84,8 @@ Cantidad de licencias solicitadas del juego2.
 Cantidad de licencias solicitadas del juego3.
 Cantidad de licencias solicitadas del juego4.
 **Resultado** Balance del pedido indicando precio total de la compra, valor del descuento y valor total de la compra con el descuento.
+
+
 ------------------------------------------------------------------------------------------------------
 
 #### Directorio
