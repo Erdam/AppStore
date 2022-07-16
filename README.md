@@ -3,7 +3,9 @@
 #### Bienvenido a AppStore.
 Se quiere construir una aplicación para manejar un AppStore de juegos. 
 Esta aplicación debe permitir manejar 4 juegos y contar con la posibilidad de compra y venta de licencias de los mismos.
+
 Cada juego se caracteriza por tener:
+
 - Nombre, que es único.
 - Categoría a la que pertenece. Puede ser: rompecabezas, acción o deporte.
 - Tamaño: memoria que ocupa en kilobytes (KB).
@@ -11,14 +13,18 @@ Cada juego se caracteriza por tener:
 - Cantidad de licencias disponibles.
 - Cantidad de licencias vendidas.
 - Imagen del juego.
+
 Adicionalmente, el programa debe permitir calcular posibles descuentos para clientes que desean comprar licencias de juego en un volumen alto.
 En este caso, debido a las políticas de ventas y mercadeo, las promociones vigentes son las siguientes:
+
 1. Si el comprador solicita al menos 25 licencias de juegos de rompecabezas sin importar la cantidad de juegos que solicite de otras categorías,
 se dará el 20% de descuento sobre el valor total del pedido.
 2. Si el comprador solicita al menos 20 licencias de juegos de deportes y 15 licencias de juegos de acción, 
 se dará el 15% de descuento sobre el valor total del pedido.
 Si en una compra se cumplen ambas condiciones, sólo se aplica la primera promoción que aplique.
+
 El programa debe permitir:
+
 1. Visualizar la información detallada de cada juego.
 2. Comprar licencias de un juego.
 3. Vender licencias de un juego.
@@ -78,7 +84,7 @@ Cantidad de licencias solicitadas del juego2.
 Cantidad de licencias solicitadas del juego3.
 Cantidad de licencias solicitadas del juego4.
 **Resultado** Balance del pedido indicando precio total de la compra, valor del descuento y valor total de la compra con el descuento.
-
+------------------------------------------------------------------------------------------------------
 
 #### Directorio
     editor.md/
