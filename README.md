@@ -34,12 +34,19 @@ El programa debe permitir:
 
 #### Requerimientos Funcionales
 ------------------------------------------------------------------------------------------------------
-**Nombre** R1 – Visualizar la información detallada de cada juego.
-**Resumen** Permite visualizar la información (categoría, tamaño, precio, 
+**Nombre** 
+R1 – Visualizar la información detallada de cada juego.
+
+**Resumen** 
+Permite visualizar la información (categoría, tamaño, precio, 
 unidades disponibles, unidades vendidas e imágenes) de todos los juegos de la tienda.
+
 **Entrada**
+
 Ninguna
-**Resultado** Se muestra la información detallada de cada uno de los juegos de la tienda.
+**Resultado** 
+
+Se muestra la información detallada de cada uno de los juegos de la tienda.
 
 ------------------------------------------------------------------------------------------------------
 **Nombre** R2 – Comprar licencias de un juego
